@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?text=Olá Visitante!&animation=fadeIn&type=waving&color=gradient&customColorList=14&height=100"/>
-
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&size=15&duration=7000&color=9F9F9F&width=550&height=100&lines=Me+chamo+Pedro+%5E%5E%2C+e+estou+sempre+Estudando%2C+Desenvolvendo+e++Codando...)](https://git.io/typing-svg)
   
 <div style="display: inline_block;">
@@ -15,7 +13,7 @@
   
 ##
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wwpedro&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <div style="display: inline_block">
   <a href = "mailto:dev.pedroaugusto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
