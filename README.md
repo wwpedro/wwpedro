@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&duration=7000&pause=700&color=828282&repeat=false&random=false&width=550&height=100&lines=Ol%C3%A1%2C++me+chamo+Pedro+%E2%9C%A8++.Feliz+em+te+ver+por+aqui+%5E%5E)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&duration=7000&pause=700&color=828282&repeat=false&random=false&width=550&height=100&lines=+++++Ol%C3%A1%2C++me+chamo+Pedro+%E2%9C%A8++.Feliz+em+te+ver+por+aqui+%5E%5E)](https://git.io/typing-svg)
   
 <div style="display: inline_block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
