@@ -1,15 +1,16 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&size=15&duration=7000&color=9F9F9F&width=550&height=100&lines=Me+chamo+Pedro+%5E%5E%2C+e+estou+sempre+Estudando%2C+Desenvolvendo+e++Codando...)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&duration=7000&pause=700&color=828282&repeat=false&random=false&width=550&height=100&lines=Ol%C3%A1%2C+me+chamo+Pedro+%5E%5E++%2Cfeliz+em+te+ver+por+aqui.)](https://git.io/typing-svg)
   
 <div style="display: inline_block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50px" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />        
 </div>
   
 ##
