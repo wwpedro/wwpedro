@@ -1,12 +1,17 @@
 <div>
 
 
-## Olá 👋
+
 <div align="center">
-  <img src="" width="700px" />
+  <img src="https://github.com/wwpedro/wwpedro/assets/63758975/e5fde11c-7462-410a-ab0a-a85c7bc99371" width="300px" />
+</div>
+<div align="center">
+
+## Pedro Augusto ✨
+olá me chamo pedro, sou desenvolvedo de software e atualmente sou graduando em Sistemas de Informação e sou Técnico em informática para internet ,recentemente iniciei estudos em ciências de dados e tenho estudado Spring Boot (Java)
+  
 </div>
 
-olá me chamo pedro, sou desenvolvedo de software e atualmente sou graduando em Sistemas de Informação e sou Técnico em informática para internet ,recentemente iniciei estudos em ciências de dados e tenho estudado Spring Boot (Java)
 
 ## 🎓 Educação
 
@@ -31,7 +36,7 @@ olá me chamo pedro, sou desenvolvedo de software e atualmente sou graduando em 
   <a href="https://www.linkedin.com/in/pedro-augusto-39a242188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
-## ⭐ GitHub Stats
+## ⭐ Sobre GitHub
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=wwpedro&show_icons=true&theme=tokyonight&line_height=27">
