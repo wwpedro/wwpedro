@@ -1,6 +1,10 @@
 <div>
 
+
 ## Olá 👋
+<div align="center">
+  <img src="" width="700px" />
+</div>
 
 olá me chamo pedro, sou desenvolvedo de software e atualmente sou graduando em Sistemas de Informação e sou Técnico em informática para internet ,recentemente iniciei estudos em ciências de dados e tenho estudado Spring Boot (Java)
 
@@ -26,6 +30,13 @@ olá me chamo pedro, sou desenvolvedo de software e atualmente sou graduando em 
   <a href = "mailto:dev.pedroaugusto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-augusto-39a242188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
+
+## ⭐ GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=wwpedro&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wwpedro&hide=css,html&theme=tokyonight">
+</p>
 
 
 </div><br>
