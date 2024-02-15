@@ -1,7 +1,15 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&duration=7000&pause=700&color=828282&repeat=false&random=false&width=550&height=100&lines=+++++Ol%C3%A1%2C++me+chamo+Pedro+%E2%9C%A8++.Feliz+em+te+ver+por+aqui+%5E%5E)](https://git.io/typing-svg)
-  
+## Olá 👋
+
+olá me chamo pedro, sou desenvolvedo de software e atualmente sou graduando em Sistemas de Informação e sou Técnico em informática para internet ,recentemente iniciei estudos em ciências de dados e tenho estudado Spring Boot (Java)
+
+## 🎓 Educação
+
+- Graduando em Sistemas de Informação
+- Técnico em informática para internet
+
+## 🛠 Habilidades
 <div style="display: inline_block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
@@ -11,12 +19,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />        
 </div>
-  
-##
-  
+
+## 📫 Contatos
+
 <div style="display: inline_block">
   <a href = "mailto:dev.pedroaugusto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-augusto-39a242188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div><br>
+
+
 </div><br>
 
 
