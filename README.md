@@ -8,7 +8,7 @@
 <div align="center">
 
 ## Pedro Augusto ✨
-olá me chamo pedro, sou desenvolvedor de software e atualmente sou graduando em Sistemas de Informação e sou Técnico em informática para internet ,recentemente iniciei estudos em ciências de dados e tenho estudado Spring Boot (Java)
+olá me chamo pedro, sou desenvolvedor web e atualmente sou graduando em Sistemas de Informação e sou Técnico em informática para internet ,recentemente iniciei estudos em ciências de dados e tenho estudado Spring Boot (Java)
   
 </div>
 
