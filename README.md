@@ -35,14 +35,6 @@ olá me chamo pedro, sou desenvolvedor web e atualmente sou graduando em Sistema
   <a href="https://www.linkedin.com/in/pedro-augusto-39a242188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
-## ⭐ Sobre GitHub
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wwpedro&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wwpedro&hide=css,html&theme=tokyonight">
-</p>
-
-
 </div><br>
 
 
