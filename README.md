@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/wwpedro/wwpedro/assets/63758975/e5fde11c-7462-410a-ab0a-a85c7bc99371" width="280px" />
 
-  # Pedro Augusto ✨
+  # Pedro Augusto
 
   **Desenvolvedor Full Stack | Ciência de Dados | Inteligência Artificial**
 
