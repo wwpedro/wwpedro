@@ -53,26 +53,6 @@
   <img src="https://skillicons.dev/icons?i=figma" />
 </div>
 
-## 🔬 Pesquisa e Projetos
+## 🔬 Pesquisa
 
 - **VisIETF:** Plataforma interativa para análise da participação brasileira na criação de padrões da Internet.
-- **Machine Learning:** pesquisas e aplicações de modelos preditivos para análise de desempenho acadêmico.
-- **Marvin:** desenvolvimento de tutor de programação com gamificação e missões educacionais.
-- **Data Warehouse:** análise da relação entre área plantada de cana-de-açúcar e focos de calor em Alagoas.
-
-## 📊 GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wwpedro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwpedro&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wwpedro&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <i>Explorando possibilidades. Construindo caminhos através da tecnologia. ✨</i>
-</div>
